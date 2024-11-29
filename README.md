@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Generative AI
 - 💞️ I’m looking to collaborate on ...Python 
 - 📫 How to reach me ...here
-- 😄 Pronouns: ...Shamil
+- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Still Beginner
 
 <!---
